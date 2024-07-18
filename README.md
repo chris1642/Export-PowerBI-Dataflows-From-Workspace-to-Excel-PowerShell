@@ -10,3 +10,8 @@ The PowerShell script is set to auto-install every required module, set the corr
 The only 'requirement' is replacing the XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX with the Workspace ID you are trying to export the dataflows from. 
 
 You must have read access to the dataflow (if you can refresh a model with a dataflow, you have read access). Depending on if you can run scripts directly, I've included a text file and PS1 copy.
+
+Example excel output
+
+![image](https://github.com/user-attachments/assets/30ec67fb-f059-427e-a878-110bcf1ab066)
+
