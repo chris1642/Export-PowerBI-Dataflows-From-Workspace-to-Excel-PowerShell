@@ -1,4 +1,4 @@
-# The script does the following:
+# The PowerShell script does the following:
 
 1. Downloads every Dataflow within a workspace and saves them as a txt (Text) file in a dated-backup folder
 2. Parses out the file and extracts the individual query information
@@ -9,4 +9,4 @@ The PowerShell script is set to auto-install every required module, set the corr
 
 The only 'requirement' is replacing the XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX with the Workspace ID you are trying to export the dataflows from. 
 
-You must have read access to the dataflow (if you can refresh a model with a dataflow, you have read access)
+You must have read access to the dataflow (if you can refresh a model with a dataflow, you have read access). Depending on if you can run scripts directly, I've included a text file and PS1 copy.
