@@ -11,7 +11,7 @@ The only 'requirement' is replacing the XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX with the
 
 You must have read access to the dataflow (if you can refresh a model with a dataflow, you have read access). Depending on if you can run scripts directly, I've included a text file and PS1 copy.
 
-Example excel output
+Example excel output (the Query column is formatted within Excel similar to PowerQuery's Advanced Editor - it will be a new line with each new step. The picture below just has wrapped text turned off).
 
 ![image](https://github.com/user-attachments/assets/e5e11ca2-ec67-4ae2-aed6-55c32253e3b2)
 
