@@ -13,5 +13,5 @@ You must have read access to the dataflow (if you can refresh a model with a dat
 
 Example excel output
 
-![image](https://github.com/user-attachments/assets/30ec67fb-f059-427e-a878-110bcf1ab066)
+![image](https://github.com/user-attachments/assets/e5e11ca2-ec67-4ae2-aed6-55c32253e3b2)
 
