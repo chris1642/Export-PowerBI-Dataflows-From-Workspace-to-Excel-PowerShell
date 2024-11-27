@@ -116,7 +116,7 @@ if ($dataflows -and $dataflows.value) {
         
         # Extract the data from the JSON response without writing intermediate files
         $startMarker = '"document\":'
-        $endMarker = '"connectionOverrides\":'
+        $endMarker = '\\\";\\r\\n\'
         $startIndex = $jsonString.IndexOf($startMarker) + $startMarker.Length
         $endIndex = $jsonString.IndexOf($endMarker, $startIndex)
         $documentContent = $jsonString.Substring($startIndex, $endIndex - $startIndex)
